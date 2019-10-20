@@ -1,3 +1,2 @@
 print(«something»);
 print(«something more»);
-print(«nothing»);
