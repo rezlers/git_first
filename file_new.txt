@@ -2,3 +2,4 @@ print(«something»);
 print(«something more»);
 print(«something else»);
 new line: do;
+print(«nothing»);
